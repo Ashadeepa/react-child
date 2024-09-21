@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.reactContainer {
+  border: 4px dashed #ffc107;
+  padding: 10px;
+  margin: 10px;
+  color: #0a58ca;
+  display: inline-block;
+}
